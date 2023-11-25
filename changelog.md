@@ -1,4 +1,4 @@
-# STRPxBAG v4.6 Changelog:
+de# STRPxBAG v4.6 Changelog:
 ## Enhanced notifications:
 - Each notification now has a unique `tag` to prevent conflicts with other modules notifications. `Notifications no longer overwrite each other`
 ## Script and Injector Revamp: 
